@@ -195,7 +195,7 @@ export function Contact() {
               <div className="space-y-4">
                 {/* Email */}
                 <motion.a
-                  href="mailto:daniel@example.com"
+                  href="mailto:danielmercadosubirana@gmail.com"
                   whileHover={{ x: 5 }}
                   className="flex items-center gap-4 p-4 bg-gradient-to-r from-blue-500/5 to-violet-500/5 border border-blue-500/10 rounded-2xl hover:from-blue-500/10 hover:to-violet-500/10 hover:border-blue-500/20 transition-all group"
                 >
@@ -205,7 +205,7 @@ export function Contact() {
                   <div>
                     <div className="text-sm text-[#1a1a1a]/60 mb-1">Email</div>
                     <div className="font-medium text-[#1a1a1a]">
-                      daniel@example.com
+                      danielmercadosubirana@gmail.com
                     </div>
                   </div>
                 </motion.a>
@@ -243,7 +243,7 @@ export function Contact() {
                   <div>
                     <div className="text-sm text-[#1a1a1a]/60 mb-1">GitHub</div>
                     <div className="font-medium text-[#1a1a1a]">
-                      @daniel
+                      @daswitez
                     </div>
                   </div>
                 </motion.a>
