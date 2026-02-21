@@ -1,3 +1,5 @@
+"use client";
+
 import { useEffect, useRef } from 'react';
 import { motion, useScroll, useTransform } from 'motion/react';
 import gsap from 'gsap';
